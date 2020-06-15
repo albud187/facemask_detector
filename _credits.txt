@@ -1,0 +1,9 @@
+# facemask_detector
+detect facemask with CNN
+
+Credits:
+
+Sentex: Some of my code was used from his tutorials. This includes some parts of training the neural network and haarcascade usage with opencv2
+
+Prajna Bhandary, https://www.linkedin.com/in/prajna-bhandary-0b03a416a/, https://github.com/prajnasb/observations
+Atleast half my dataset was from Prajna's dataset
