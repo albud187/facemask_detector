@@ -1,0 +1,9 @@
+11 jun 20
+- improve ANN by giving more negative examples
+- change data augmentation by applying image filters "sepia" "night" ect.
+
+
+- live video
+- text on video
+
+- use eye detection and face detection
